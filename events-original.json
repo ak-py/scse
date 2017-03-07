@@ -1,0 +1,19 @@
+{
+  "events": [
+    {
+      "title": "SEAOSD Student Night",
+      "description": "Tue. (2/21), Stone Brewery from 5:30-8PM<br><br>Come out to SEAOSD's student night and get a free dinner while networking with people in industry. Don't forget to RSVP <a href=\"https://events.r20.constantcontact.com/register/eventReg?oeidk=a07edpbpcsyb75ac33f&oseq=&c=&ch=\" target=\"_blank\">here!</a>",
+      "imgUrl": "SEAOSD.png"
+    },
+    {
+      "title": "Ice Skating Social",
+      "description": "Are you bored of studying all the time? We know Geisel and SME are cool, but get cooler at the San Diego Ice Arena! Invite your friends to the UCSD SCSE Social and enjoy 2 hours of watching them fall!<br>\nInstructions to get to the FUN:<br>\nClick on the link <a href=\"http://sdice.frontline-connect.com/program.cfm?fac=sdice&facid=1&levelid=0&seasonid=0&dateid=0&programid=10\" target=\"_blank\">HERE</a>.",
+      "imgUrl": "IceSkating.jpg"
+    },
+    {
+      "title": "GBM #3: Engineering Ethics",
+      "description": "Wed. (3/1), Cymer Conference Center @ 6PM (Check-in at 5:45PM)<br>Dr. Steve Starrett from Kansas State University and Dr. Carlos Bertha, a philosophy professor at the US Air Force Academy, will deliver a presentation about the importance on engineering ethics and how it plays a role in our profession.",
+      "imgUrl": "Ethics.jpg"
+    }
+  ]
+}
